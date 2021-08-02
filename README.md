@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Diogo!
 
-Quero ingressar no mundo digital 💻📱
+Conhecendo o melhor mundo digital 💻📱
 
  <a href="https://www.linkedin.com/in/diogo-laureano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
