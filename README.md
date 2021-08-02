@@ -1,6 +1,6 @@
-### Olá! Eu sou o Diogo!
+### Welcome to my GitHub! I'm Diogo!
 
-Conhecendo melhor o mundo digital 💻📱
+I'm studying about new technologies 💻📱
 
  <a href="https://www.linkedin.com/in/diogo-laureano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
@@ -11,7 +11,7 @@ Conhecendo melhor o mundo digital 💻📱
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogolaureano&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
  
-#### Atualmente estudando programação 👨‍💻
+#### I'm currently learning the tools below 👨‍💻
  <div style="display: inline_block">
   <img align="center" alt="Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
   <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
