@@ -18,6 +18,7 @@ I'm studying about new technologies 💻📱
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Angular" height"50" width="50" src=https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg> 
+  <img align="center" alt="NodeJS" height"50" width="50" src=https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg> 
   <img align="center" alt="VsCode" height"50" width="50" &nbsp src=https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg>
   <img align="center" alt="Boostrap" height"50" width="50" src=https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg>  
 </div>
