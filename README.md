@@ -15,8 +15,8 @@ I'm studying about new technologies 💻📱
  <div style="display: inline_block">
   <img align="center" alt="VsCode" height"50" width="50" &nbsp src=https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg>
   <img align="center" alt="CS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"> 
-  <img align="center" alt="CS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg">
-  <img align="center" alt="CS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="DN" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg">
+  <img align="center" alt="Git" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
   <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
